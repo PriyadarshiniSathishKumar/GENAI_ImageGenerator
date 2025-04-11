@@ -79,7 +79,8 @@ This script will load `generator.pth` and display a new image generated from ran
 ---
 
 ## 📸 Sample Output
-
+![epoch_49](https://github.com/user-attachments/assets/eee94c59-f74a-4205-95bc-71035965385c)
+![epoch_0](https://github.com/user-attachments/assets/d5c26209-1c7f-40e3-903a-5dc23f4faf9f)
 
 ---
 
